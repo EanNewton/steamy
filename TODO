@@ -1,0 +1,10 @@
+Add runtime flag for marketplace and other optional features
+Update docstrings 
+Update annotated arg and return values
+Write documentation
+Create --help
+Add verbosity
+Add functools debug wrapper
+Update license
+Search for commented out code
+Search for redundant or orphaned code
